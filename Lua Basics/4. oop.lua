@@ -1,0 +1,1 @@
+game.Workspace.Part.Transparency = 0.5
