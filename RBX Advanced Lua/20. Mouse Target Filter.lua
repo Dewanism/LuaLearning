@@ -1,0 +1,1 @@
+mouse.TargetFilter = workspace.IgnoreThisPart

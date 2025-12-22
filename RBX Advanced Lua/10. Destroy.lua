@@ -1,0 +1,2 @@
+game.Workspace.Part:Destroy()
+
