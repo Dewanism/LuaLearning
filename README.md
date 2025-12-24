@@ -16,11 +16,13 @@ This repository is intended for learning, experimentation, and skill development
 
 ---
 #Repository Structure
+
 ##Basics
 ---
 Fundamental Lua concepts and simple Roblox scripting examples.
 Used to reinforce core logic, syntax, and event-driven behavior.
 ---
+
 ##GUI
 
 Scripts and experiments focused on user interface design, input handling, and layout behavior.
@@ -35,6 +37,7 @@ Notes and scripts related to text appearance and presentation, including:
 - Readability and UI clarity
 
 ---
+
 ##AdvancedScripts
 
 More complex scripting concepts and mechanics.
