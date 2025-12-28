@@ -49,3 +49,6 @@ game.Players.PlayerRemoving:Connect(function(player)
 		warn(errormessage)
 	end
 end)
+
+while true do
+	
