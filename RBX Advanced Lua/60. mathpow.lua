@@ -1,0 +1,1 @@
+print(math.pow(2, 3)) -- Outputs: 8 -- 2 raised to the power of 3 (2^3) or 2 * 2 * 2 = 8
