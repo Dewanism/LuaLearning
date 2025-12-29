@@ -1,0 +1,1 @@
+print(math.ceil(5.3)) -- Outputs: 6

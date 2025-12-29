@@ -1,0 +1,1 @@
+print(math.floor(5.7)) -- Outputs: 5
