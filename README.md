@@ -1,5 +1,11 @@
 LuaLearning
 #Roblox Lua Learning Archive
+
+I've quit pursing Roblox Development for now but I'm happy I pushed myself far. I've learned a lot on how Lua works, creating game mechanics, and etc.
+
+I'm not a big fan of a platform that supports cash grab games and I prefer quality over monetization.
+
+
 ---
 This repository contains my structured learning notes and practice scripts while studying:
 
